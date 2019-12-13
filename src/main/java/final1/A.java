@@ -5,6 +5,10 @@ public class A {
 		System.out.println("hi world");
 		System.out.println("hellow world this in india");
 		System.out.println("in india");
+		System.out.println("git class is started ");
+		System.out.println("java class is started ");
+		System.out.println("selenium class is started ");
+		System.out.println("project class is started ");
 	}
 
 }
